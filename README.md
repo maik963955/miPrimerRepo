@@ -14,3 +14,4 @@ Que estudiar:
 1 - página datavizproject --- dónde se puede estudiar todos los gráficos, mirar el sábado y domingo
 2 - módulo o librería pickle
 3- estimación paramétrica y no parametrica
+4 - estudiar que es MLE
